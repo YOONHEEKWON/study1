@@ -7,14 +7,14 @@ let cardsList = [
   {
     id: 1,
     title: "Read the Book",
-    descrition: "I should read the whole book",
+    description: "I should read the whole book",
     status: "in-progress",
     tasks: []
   },
   {
     id: 2,
     title: "Write some code",
-    descrition: "Can along with the samples in the book",
+    description: "Can along with the samples in the book",
     status: "todo",
     tasks: [
       {

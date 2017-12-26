@@ -13,7 +13,7 @@
     {
         id: 2,
         title: "Card Two title",
-        decsription: "Card detailed decsription",
+        description: "Card detailed decsription",
         status: "in-progress",
         tasks: []
     },
